@@ -26,4 +26,4 @@ Datos de los testimonios:
   - Habilidades en JavaScript: freeCodeCamp ofrece habilidades y confianza en JavaScript, estructuras de datos y algoritmos.
 
 ¡Magia de la Programación! 🪄
-Este proyecto muestra cómo la programación con React y componentes puede crear interfaces dinámicas y atractivas. Con freeCodeCamp y un poco de magia, ¡también puedes crear maravillas como esta!
+  - Este proyecto muestra cómo la programación con React y componentes puede crear interfaces dinámicas y atractivas. Con freeCodeCamp y un poco de magia, ¡también puedes crear maravillas como esta!
